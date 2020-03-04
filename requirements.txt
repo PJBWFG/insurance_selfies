@@ -4,6 +4,8 @@
 # Flask Framework
 Flask==1.1.1
 
+pip install --upgrade pip
+
 # OpenCV
 opencv==4.1.0
 
